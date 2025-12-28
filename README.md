@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Aayush Ae
 
 🎓 I'm currently pursuing **B.Tech in Mechanical Engineering** at **NIT Jalandhar**, but my true passion lies in **software engineering** and the world of technology.  
 
